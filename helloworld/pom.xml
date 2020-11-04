@@ -11,7 +11,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yuliyao</groupId>
-    <artifactId>helloword</artifactId>
+    <artifactId>helloworld</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>helloworld</name>
     <description>Demo project for Spring Boot</description>
@@ -67,6 +67,12 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.71</version>
         </dependency>
     </dependencies>
 

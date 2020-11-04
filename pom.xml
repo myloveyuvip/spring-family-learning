@@ -23,6 +23,9 @@
         <module>
             dataSourceDemo-2
         </module>
+        <module>
+            helloworld
+        </module>
     </modules>
 
 

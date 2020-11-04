@@ -1,13 +1,13 @@
-package com.yuliyao.helloword;
+package com.yuliyao.helloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HellowordApplication {
+public class HelloWorldApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HellowordApplication.class, args);
+        SpringApplication.run(HelloWorldApplication.class, args);
     }
 
 }

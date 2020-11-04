@@ -1,10 +1,10 @@
-package com.yuliyao.helloword;
+package com.yuliyao.helloworld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HellowordApplicationTests {
+class HelloWorldApplicationTests {
 
     @Test
     void contextLoads() {

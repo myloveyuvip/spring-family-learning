@@ -1,4 +1,4 @@
-package com.yuliyao.helloword.controller;
+package com.yuliyao.helloworld.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
